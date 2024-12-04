@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/invoice-frontend/static/css/main.fad6e8bc.css",
+    "main.js": "/invoice-frontend/static/js/main.75d1a51c.js",
+    "static/js/453.021da0bf.chunk.js": "/invoice-frontend/static/js/453.021da0bf.chunk.js",
+    "index.html": "/invoice-frontend/index.html",
+    "main.fad6e8bc.css.map": "/invoice-frontend/static/css/main.fad6e8bc.css.map",
+    "main.75d1a51c.js.map": "/invoice-frontend/static/js/main.75d1a51c.js.map",
+    "453.021da0bf.chunk.js.map": "/invoice-frontend/static/js/453.021da0bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad6e8bc.css",
+    "static/js/main.75d1a51c.js"
+  ]
+}
